@@ -23,3 +23,21 @@
   journal: Cell
   year: 2000
   link: "https://doi.org/10.1016/S0092-8674(00)81685-2"
+
+- title: "The Hydrodynamics of Active Systems"
+  author: Julia M. Yeomans
+  journal: arXiv
+  year: 2016
+  link: "https://arxiv.org/pdf/1603.00194.pdf"
+
+- title: "Germline P granules are liquid droplets that localize by controlled dissolution/condensation"
+  author: Brangwynne et. al.
+  journal: Science
+  year: 2009
+  link: "https://www.ncbi.nlm.nih.gov/pubmed/19460965"
+
+- title: "Polymer physics of intracellular phase transitions"
+  author: Brangwynne et. al.
+  journal: Nature Physics
+  year: 2015
+  link: "https://www.nature.com/articles/nphys3532"
